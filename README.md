@@ -1,3 +1,4 @@
+
 # 🏢 ERP System - Enterprise Resource Planning
 
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -422,3 +423,7 @@ pip install fastapi uvicorn pymongo pydantic[email] python-jose[cryptography] pa
 - 👔 **HR Module** → [HR README](./app/HR/README.md)
 - 👨‍💼 **Employees Module** → [Employees README](./app/Employees/README.md)
 - 🛠 **Common Utilities** → [Common README](./app/common/README.md)
+=======
+# erp-fastapi-backend
+FastAPI-based ERP backend with MongoDB and JWT authentication.
+
