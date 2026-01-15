@@ -1,0 +1,25 @@
+# Core
+fastapi>=0.104.1
+uvicorn>=0.24.0
+python-dotenv>=1.0.0
+pydantic>=2.4.2
+
+# Database
+pymongo>=4.5.0
+dnspython>=2.4.2
+
+# Authentication
+passlib[bcrypt]>=1.7.4
+python-jose[cryptography]>=3.3.0
+bcrypt>=4.0.1
+email-validator>=2.1.0
+
+# CORS
+fastapi-cors>=0.0.6
+
+# Utils
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+
+#pip install -r requirements.txt
